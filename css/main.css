@@ -1,0 +1,93 @@
+#topic::-webkit-input-placeholder {
+   color: white;
+}
+
+#topic:-moz-placeholder { /* Firefox 18- */
+   color: white;
+}
+
+#topic::-moz-placeholder {  /* Firefox 19+ */
+   color: white;
+}
+
+#topic:-ms-input-placeholder {
+   color: white;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+
+#title p {
+  margin: 10px;
+
+}
+
+div.form-group {
+  width: 300px;
+  margin: auto;
+
+
+}
+
+#topic {
+  width: 225px;
+  background-color: transparent;
+  font-size: 20px;
+  position: relative;
+  color: white;
+  float: left;
+  margin: 0px;
+
+}
+
+#enter {
+  background-color: transparent;
+  color: white;
+
+
+}
+
+#enter:hover {
+  color: skyblue;
+
+}
+
+
+#poem {
+  padding: 25px;
+  padding-bottom: 50px;
+  padding-top: 0px;
+
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  display: none;
+  height: 100%;
+  color: white;
+  overflow: auto;
+
+
+}
+
+
+#poem h3 {
+  font-weight: 200;
+
+
+}
+
+#return_button:hover {
+  color: skyblue;
+
+}
+
+#return_button img {
+  width: 30px;
+  margin-right: 10px;
+
+}
